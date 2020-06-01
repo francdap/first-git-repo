@@ -5,3 +5,5 @@ Hello Francesca! This is Tolulope's addition to the file!
 Sorry, who's Tolulope?
 
 The person teaching you Git.
+
+:)
